@@ -1,0 +1,3 @@
+// This is the Gradle settings file!
+// The project name should be the same as the directory name, or you may have issues.
+rootProject.name = "gradle-dependencies-example"
